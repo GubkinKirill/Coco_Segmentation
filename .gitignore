@@ -1,0 +1,4 @@
+venv/
+data/coco/images/
+data/coco/annotations/
+
